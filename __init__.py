@@ -1,9 +1,8 @@
 
 
-
 import sys
 import os
-import bpy 
+import bpy
 import bpy.props
 import re
 
